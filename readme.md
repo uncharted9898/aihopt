@@ -3,11 +3,11 @@ Install Userland / Debian
 
 sudo apt-install git -y
 
-git clone https://github.com/uncharted9898/vccphone.git
+git clone https://github.com/uncharted9898/aihopt.git
 
-cd ~/vccphone && chmod +x run.sh && ./run.sh
+cd ~/aihopt && chmod +x run.sh && ./run.sh
 
-Wait until nano pops up for ~/vccminer/run3.sh
+Wait until nano pops up for ~/aihopt/ccminer/run3.sh
 
 Edit as necessary
 
@@ -17,4 +17,4 @@ Y
 
 Enter
 
-~/vccminer/run3.sh
+~/aihopt/ccminer/run3.sh
