@@ -1,5 +1,14 @@
 # AiH Easy Phone Miner Installer
-Install Userland / Debian 
+
+Now Utilizing the https://github.com/DevTechGames/ccminer-rk3328 CCMiner for a slight ARM Boost
+
+# PreReqs
+
+64 Bit ARM CPU && OS
+
+Userland with Debian installed
+
+# Setup
 
 sudo apt-install git -y
 
